@@ -1,0 +1,74 @@
+[
+  {
+    "precio": 35000,
+    "id": 1,
+    "title": "Procesador Ryzen 5",
+    "thumbnailUrl": "./img/Ryzen5.jpg"
+  },
+  {
+    "precio": 45000,
+    "id": 2,
+    "title": "Procesador Ryzen 7",
+    "thumbnailUrl": "./img/Ryzen7.jpg"
+  },
+  {
+    "precio": 55000,
+    "id": 3,
+    "title": "Procesador Ryzen 9",
+    "thumbnailUrl": "./img/Ryzen9.jpg"
+  },
+  {
+    "precio": 35000,
+    "id": 4,
+    "title": "Procesador Intel I3",
+    "thumbnailUrl": "./img/Intel3.jpg"
+  },
+  {
+    "precio": 55000,
+    "id": 5,
+    "title": "Procesador Intel I5",
+    "thumbnailUrl": "./img/Intel5.jpg"
+  },
+  {
+    "precio": 45000,
+    "id": 6,
+    "title": "Procesador Intel I7",
+    "thumbnailUrl": "./img/Intel7.jpg"
+  },
+  {
+    "precio": 15000,
+    "id": 7,
+    "title": "Placa Madre AMD",
+    "thumbnailUrl": "./img/Mother AMD.jpg"
+  },
+  {
+    "precio": 13000,
+    "id": 8,
+    "title": "Placa Madre Intel",
+    "thumbnailUrl": "./img/Mother Intel.jpg"
+  },
+  {
+    "precio": 8000,
+    "id": 9,
+    "title": "Memorias Ram",
+    "thumbnailUrl": "./img/Ram.jpg"
+  },
+  {
+    "precio": 6500,
+    "id": 10,
+    "title": "Fuente Thermaltake",
+    "thumbnailUrl": "./img/Fuente Thermaltake.jpg"
+  },
+  {
+    "precio": 6800,
+    "id": 11,
+    "title": "Fuente Corsair CX",
+    "thumbnailUrl": "./img/Fuente Corsair.jpg"
+  },
+  {
+    "precio": 11500,
+    "id": 12,
+    "title": "Gabinete Gamer",
+    "thumbnailUrl": "./img/Gabinete.jpg"
+  }
+]
